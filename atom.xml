@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-03-16T13:31:44.968Z</updated>
+  <updated>2020-03-17T11:30:36.140Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>关于本站</title>
+    <link href="http://yoursite.com/2020/03/17/about/"/>
+    <id>http://yoursite.com/2020/03/17/about/</id>
+    <published>2020-03-17T11:18:42.000Z</published>
+    <updated>2020-03-17T11:30:36.140Z</updated>
+    
+    <content type="html"><![CDATA[<p>因为本屌丝刷系统时不备份文件，之前数据全部丢失，重新建设本站</p><p>本站建设初衷是为了个人做笔记资料为主。后续开放站点，分享当年我遇到的那些坑，让<br>大家尽早脱坑hhhc😂</p><p>请各位继续关注，后续会更新更多精贴</p><p>站长QQ：2295733<br>官方Q群：234555619</p><p>站长小陌是个憨憨~</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;因为本屌丝刷系统时不备份文件，之前数据全部丢失，重新建设本站&lt;/p&gt;
+&lt;p&gt;本站建设初衷是为了个人做笔记资料为主。后续开放站点，分享当年我遇到的那些坑，让&lt;br&gt;大家尽早脱坑hhhc😂&lt;/p&gt;
+&lt;p&gt;请各位继续关注，后续会更新更多精贴&lt;/p&gt;
+&lt;p&gt;站长QQ：229573
+      
+    
+    </summary>
+    
+    
+    
+      <category term="官方" scheme="http://yoursite.com/tags/%E5%AE%98%E6%96%B9/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

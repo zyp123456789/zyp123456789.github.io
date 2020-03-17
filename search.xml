@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>关于本站</title>
+    <url>/2020/03/17/about/</url>
+    <content><![CDATA[<p>因为本屌丝刷系统时不备份文件，之前数据全部丢失，重新建设本站</p>
+<p>本站建设初衷是为了个人做笔记资料为主。后续开放站点，分享当年我遇到的那些坑，让<br>大家尽早脱坑hhhc😂</p>
+<p>请各位继续关注，后续会更新更多精贴</p>
+<p>站长QQ：2295733<br>官方Q群：234555619</p>
+<p>站长小陌是个憨憨~</p>
+]]></content>
+      <tags>
+        <tag>官方</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2020/03/16/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
