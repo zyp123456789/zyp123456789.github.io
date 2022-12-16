@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>СİBlog-����ʽ</title>
+  <title>XiaoMo</title>
   
-  
+  <subtitle>Life and Nature</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>��Сİ</name>
+    <name>XiaoMo</name>
     
   </author>
   
